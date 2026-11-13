@@ -1,0 +1,6 @@
+APK pronto (sem Android Studio):
+1) Crie um repositório no GitHub e envie esta pasta (git push).
+2) Aba Actions > "Build APK" > aguarde ~3 min.
+3) Baixe o artefato "VirtualTerebikko-apk" (app-debug.apk) e instale no Android.
+
+Ou no Android Studio: abra a pasta e clique em Run.
